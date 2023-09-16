@@ -1,0 +1,1 @@
+export const SINGLE_RESTAURANT_API =`https://the-mexican-food-db.p.rapidapi.com/`
