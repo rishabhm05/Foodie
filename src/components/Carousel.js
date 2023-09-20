@@ -5,7 +5,6 @@ import 'react-alice-carousel/lib/alice-carousel.css';
 import {GrFormNext,GrFormPrevious} from 'react-icons/gr'
 
 const Carousel = () => {
-console.log(Carouseldata)
  const items = Carouseldata[0].map((items)=>{
     return(
         <div className='mx-4 my-4 flex flex-col items-center gap-2 '>
